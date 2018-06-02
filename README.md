@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/KATT/shop.svg?branch=master)](https://travis-ci.org/KATT/shop) [![Maintainability](https://api.codeclimate.com/v1/badges/073d5e009a2b0cd2d0b9/maintainability)](https://codeclimate.com/github/KATT/shop/maintainability)
 
 Attempt to create a great reference project with an amazing developer experience wherein a lot of common React/Prisma/GraphQL challenges are addressed.
-
+..
 * [shop.kattcorp.co.uk](https://shop.kattcorp.co.uk)
 * [shop-api.kattcorp.co.uk](https://shop-api.kattcorp.co.uk)
 
